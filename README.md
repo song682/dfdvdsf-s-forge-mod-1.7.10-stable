@@ -19,7 +19,7 @@ distributionUrl=https://services.gradle.org/distributions/gradle-6.8-bin.zip
 为你想要使用的 Gradle 版本即可。  
 
 ## 使用方法
-点击 GitHub 仓库页面的 `Use this template` 按钮来创建自己的项目。 
+点击 GitHub 仓库页面的Use this template按钮来创建自己的项目。 
 或者是点击上面的Code在点击下面的Download ZIP
 
 ## 鸣谢
